@@ -58,6 +58,8 @@ namespace SygicPOI
                 }
             }
 
+            Console.WriteLine("Complete.  Press enter to exit :)");
+
             Console.ReadLine();
         }
     }
